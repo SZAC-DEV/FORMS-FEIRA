@@ -7,7 +7,7 @@ document.getElementById('loginForm').addEventListener('submit', function(e) {
     // Credenciais do admin master
     const masterAdmin = {
         user: 'master',
-        pass: 'master@2024#feira'
+        pass: 'master@2025#feira'
     };
 
     // Credenciais dos cursos
